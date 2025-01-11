@@ -9,5 +9,5 @@ Part 1 was completed
 5. Data points are colored based on depth (See legend)
 6. Each point has a tooltip that includes: Location, Magnitude, Depth and Time
 
-7. Picture shown when you zoom out
+7. Picture below is captured from the actual dashboard (zoom out)
 8. ![image](https://github.com/user-attachments/assets/427f204c-204c-4279-a6f2-66d5511372f5)
